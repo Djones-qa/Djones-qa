@@ -15,8 +15,8 @@ I'm a self-taught QA automation engineer passionate about building reliable, sca
 
 ## 🚀 Featured Projects
 
-### ⚡ [playwright-performance-api-automation](https://github.com/ozone11924-bot/playwright-performance-api-automation)
-![CI](https://github.com/ozone11924-bot/playwright-performance-api-automation/actions/workflows/playwright.yml/badge.svg)
+### ⚡ [playwright-performance-api-automation](https://github.com/Djones-qa/playwright-performance-api-automation)
+![CI](https://github.com/Djones-qa/playwright-performance-api-automation/actions/workflows/playwright.yml/badge.svg)
 
 A dual-target automation suite combining E2E UI testing, REST API testing, and performance assertions.
 
@@ -28,8 +28,8 @@ A dual-target automation suite combining E2E UI testing, REST API testing, and p
 
 ---
 
-### 🛒 [ecommerce-ui-automation-playwright](https://github.com/ozone11924-bot/ecommerce-ui-automation-playwright)
-![CI](https://github.com/ozone11924-bot/ecommerce-ui-automation-playwright/actions/workflows/playwright.yml/badge.svg)
+### 🛒 [ecommerce-ui-automation-playwright](https://github.com/Djones-qa/ecommerce-ui-automation-playwright)
+![CI](https://github.com/Djones-qa/ecommerce-ui-automation-playwright/actions/workflows/playwright.yml/badge.svg)
 
 A full e-commerce UI automation suite built with the Page Object Model pattern.
 
