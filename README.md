@@ -1,74 +1,107 @@
-# Hi, I'm a QA Automation Engineer 👋
+﻿# Hi, I'm Darrius Jones - Portfolio-driven QA Engineer
 
-I'm a self-taught QA automation engineer passionate about building reliable, scalable test suites that ship quality software. I transitioned into automation by building real projects from scratch — and I'm actively seeking my next opportunity.
+I build production-grade test automation frameworks that give development teams confidence to ship faster. My portfolio spans 8 projects covering E2E testing, API validation, mobile automation, performance testing, accessibility audits, visual regression, and load testing — all with CI/CD pipelines and professional reporting.
+
+Currently open to full-time and contract remote roles.
 
 ---
 
-## 🔧 What I Build
+## What I Build
 
-- **End-to-end UI test suites** using Playwright and TypeScript
-- **API test suites** covering full CRUD, schema validation, and auth token handling
-- **Performance assertions** with load time budgets baked into CI
+- **End-to-end UI test suites** using Playwright and TypeScript with Page Object Model
+- **API test suites** covering full CRUD, schema validation, and error handling
+- **Mobile automation** using Appium and WebdriverIO for Android apps
+- **Load and performance testing** using Grafana K6 — smoke, load, stress, and spike tests
+- **Accessibility audits** using axe-core against WCAG 2.1 standards
+- **Visual regression testing** across Desktop, Mobile, and Tablet viewports
 - **CI/CD pipelines** with GitHub Actions running parallel test jobs on every push
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⚡ [playwright-performance-api-automation](https://github.com/Djones-qa/playwright-performance-api-automation)
+### qa-master-suite
+![CI](https://github.com/Djones-qa/qa-master-suite/actions/workflows/playwright.yml/badge.svg)
+
+Crown jewel project combining E2E, API, Allure reporting, CI/CD, POM, and data-driven testing.
+- 24 tests across E2E and API layers
+- Parallel GitHub Actions jobs
+- Allure reporting with screenshot and video on failure
+- Stack: Playwright, TypeScript, GitHub Actions, Allure
+
+---
+
+### mobile-automation-appium-webdriverio
+![CI](https://github.com/Djones-qa/mobile-automation-appium-webdriverio/actions/workflows/mobile-tests.yml/badge.svg)
+
+Mobile test automation framework for the Wikipedia Android app.
+- Tests app launch, search, navigation, and results validation
+- Runs on Android emulator locally and CI
+- Stack: Appium v3, WebdriverIO v9, TypeScript, Mocha
+
+---
+
+### k6-load-testing
+![CI](https://github.com/Djones-qa/k6-load-testing/actions/workflows/k6-tests.yml/badge.svg)
+
+Performance and load testing framework targeting REST API endpoints.
+- Smoke, load, stress, and spike test scenarios
+- 500 VUs spike test — all thresholds passing
+- Stack: Grafana K6, JavaScript, GitHub Actions
+
+---
+
+### playwright-performance-api-automation
 ![CI](https://github.com/Djones-qa/playwright-performance-api-automation/actions/workflows/playwright.yml/badge.svg)
 
-A dual-target automation suite combining E2E UI testing, REST API testing, and performance assertions.
-
-- **26 tests** across 5 suites and 2 parallel CI jobs
-- **E2E:** Full login, checkout, and product flows on SauceDemo
-- **API:** Full CRUD, pagination, and data-driven tests against JSONPlaceholder
-- **Performance:** Page load and login timing assertions with budgets
-- **Stack:** Playwright · TypeScript · GitHub Actions
+Dual-target automation suite combining E2E UI testing, REST API testing, and performance assertions.
+- 26 tests across 5 suites and 2 parallel CI jobs
+- Stack: Playwright, TypeScript, GitHub Actions
 
 ---
 
-### 🛒 [ecommerce-ui-automation-playwright](https://github.com/Djones-qa/ecommerce-ui-automation-playwright)
-![CI](https://github.com/Djones-qa/ecommerce-ui-automation-playwright/actions/workflows/playwright.yml/badge.svg)
+### playwright-accessibility-automation
+![CI](https://github.com/Djones-qa/playwright-accessibility-automation/actions/workflows/playwright.yml/badge.svg)
 
-A full e-commerce UI automation suite built with the Page Object Model pattern.
-
-- Login, product search, cart management, and full checkout flow
-- Cross-browser testing across Chromium, Firefox, and WebKit
-- **Stack:** Playwright · TypeScript · GitHub Actions
+Accessibility testing framework using axe-core integration auditing WCAG 2.1 compliance.
+- Stack: Playwright, axe-core, TypeScript, GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
+### playwright-visual-regression
+![CI](https://github.com/Djones-qa/playwright-visual-regression/actions/workflows/playwright.yml/badge.svg)
+
+Visual regression testing across Desktop, Mobile, and Tablet viewports.
+- Stack: Playwright, TypeScript, GitHub Actions
+
+---
+
+## Tech Stack
 
 | Category | Tools |
 |---|---|
-| Automation | Playwright, TypeScript |
-| API Testing | Playwright APIRequestContext |
+| E2E Automation | Playwright, TypeScript |
+| Mobile Automation | Appium, WebdriverIO |
+| Load Testing | Grafana K6 |
+| API Testing | Playwright APIRequestContext, Postman |
+| Accessibility | axe-core, WCAG 2.1 |
 | CI/CD | GitHub Actions |
+| Reporting | Allure, K6 HTML Reporter |
 | Version Control | Git, GitHub |
-| Testing Types | E2E, API, Functional, Regression, Smoke |
-| Methodologies | Page Object Model, Data-Driven Testing, Schema Validation |
 
 ---
 
-## 🧪 Testing Background
+## Certifications
 
-- Hands-on experience with **manual testing** — test case design, exploratory testing, and bug reporting
-- Built automation projects independently from the ground up
-- Strong understanding of the **software testing lifecycle**
-- Open to **remote opportunities** worldwide
+- Postman API Fundamentals Student Expert
+- IBM Software Engineering for Web Developers (In Progress)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm currently open to QA Engineer and SDET roles. Feel free to reach out!
+Open to QA Automation Engineer, SDET, and QA Engineer roles — remote preferred.
 
-- 💼 Open to remote work
-- 🔍 Actively job seeking
-- 📧 Reach me via GitHub
-
----
-
-*"Quality is not an act, it is a habit."*
+- Portfolio: github.com/Djones-qa
+- LinkedIn: linkedin.com/in/darrius-jones-28226b350
+- Open to full-time and contract opportunities
