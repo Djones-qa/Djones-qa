@@ -6,8 +6,6 @@ I build production-grade test automation frameworks that give development teams 
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djones-qa&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/Djones-qa)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djones-qa&layout=compact&theme=default&hide_border=true)](https://github.com/Djones-qa)
 
 ---
 
