@@ -53,7 +53,7 @@ Full-stack QA framework combining E2E UI testing, REST API testing, POM architec
 ---
 
 ### [chumba-casino-playwright-automation](https://github.com/Djones-qa/chumba-casino-playwright-automation)
-![CI](https://github.com/Djones-qa/chumba-casino-playwright-automation/actions/workflows/playwright.yml/badge.svg)
+![CI](https://github.com/Djones-qa/chumba-casino-playwright-automation/actions/workflows/chumba-tests.yml/badge.svg)
 
 Playwright suite for a real production casino app using network interception to run 20 tests in CI without exposing credentials.
 - Auth, lobby, navigation, and responsible gaming coverage
@@ -91,7 +91,7 @@ Mobile automation framework for the Wikipedia Android app on emulator and real d
 ---
 
 ### [cypress-e2e-automation](https://github.com/Djones-qa/cypress-e2e-automation)
-![CI](https://github.com/Djones-qa/cypress-e2e-automation/actions/workflows/cypress.yml/badge.svg)
+![CI](https://github.com/Djones-qa/cypress-e2e-automation/actions/workflows/cypress-tests.yml/badge.svg)
 
 Cypress E2E suite with 10/10 tests passing and GitHub Actions CI.
 - **Stack:** Cypress, TypeScript, GitHub Actions
