@@ -1,11 +1,10 @@
-﻿# Hi, I'm Darrius Jones — QA Automation Engineer
+﻿# Hi, I'm Darrius Jones — Portfolio-driven QA Engineer
 
-I build production-grade test automation frameworks that give development teams confidence to ship faster. My portfolio spans 9 projects covering E2E testing, API validation, mobile automation, performance testing, accessibility audits, bug verification, and load testing — all with CI/CD pipelines and professional reporting.
+I build production-grade test automation frameworks and deliver professional manual testing services for real-world applications. My portfolio spans 9 automation projects covering E2E testing, API validation, mobile automation, performance testing, accessibility audits, bug verification, and load testing — all with CI/CD pipelines and professional reporting.
+
+I also work as a professional crowdsourced QA tester on platforms like uTest, with hands-on experience testing casino, healthcare, and entertainment applications using industry-standard tools including Jira, Xray, TestRail, Confluence, and NATS.
 
 **Currently open to full-time and contract remote QA Automation roles.**
-
----
-
 
 ---
 
@@ -18,6 +17,11 @@ I build production-grade test automation frameworks that give development teams 
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-0052CC?style=flat&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![axe-core](https://img.shields.io/badge/axe--core-WCAG_2.1-purple?style=flat)
 ![Allure](https://img.shields.io/badge/Allure-orange?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -33,6 +37,19 @@ I build production-grade test automation frameworks that give development teams 
 - **Accessibility audits** using axe-core against WCAG 2.1 AA standards
 - **Bug verification suites** that reproduce, document, and confirm real defects with screenshot evidence
 - **CI/CD pipelines** with GitHub Actions running tests on every push
+- **Manual and exploratory testing** using Jira, Xray, TestRail, and Confluence
+
+---
+
+## Professional Testing Experience
+
+### Freelance Crowdsourced QA Tester — uTest Platform (3+ Years)
+Working as a professional QA tester on real production applications for global companies:
+- **Hard Rock Digital** — Casino platform testing using Jira, Xray, and Confluence
+- **Spring Health** — Healthcare app testing across web and mobile platforms
+- **IMDb** — GenAI review summary quality validation
+- **WiserCare** — Patient decision module testing across multiple browsers
+- Tools used: Jira, Xray, TestRail, NATS, Confluence, uTest platform
 
 ---
 
@@ -99,7 +116,7 @@ Cypress E2E suite with 10/10 tests passing and GitHub Actions CI.
 ### [qa-portfolio](https://github.com/Djones-qa/qa-portfolio)
 ![CI](https://github.com/Djones-qa/qa-portfolio/actions/workflows/cypress.yml/badge.svg)
 
-Bug verification suite — each test reproduces a real OrangeHRM defect and captures screenshot evidence at every step.
+Bug verification suite reproducing real OrangeHRM defects with screenshot evidence.
 - 5 documented bugs with automated confirmation and Mochawesome reporting
 - **Stack:** Cypress, JavaScript, Mochawesome, GitHub Actions
 
@@ -124,9 +141,12 @@ Dual-target suite combining E2E UI testing, REST API testing, and performance as
 | API Testing | Playwright APIRequestContext, Postman |
 | Accessibility | axe-core, WCAG 2.1 AA |
 | Bug Verification | Cypress, Mochawesome |
+| Test Management | Jira, Xray, TestRail, NATS |
+| Documentation | Confluence |
 | CI/CD | GitHub Actions |
 | Reporting | Allure, Mochawesome, HTML |
 | Version Control | Git, GitHub |
+| Domains | Casino, Healthcare, Entertainment, E-commerce |
 
 ---
 
