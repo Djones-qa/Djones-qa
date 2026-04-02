@@ -76,6 +76,13 @@ Formal test case document covering the SecureBank banking application login modu
 - TC_004 — Remember Me session persistence across browser restarts
 - Includes preconditions, test data, steps, expected results, postconditions, and sign-off section
 
+### [PayFlow QA Status Report — Sprint 7](docs/PayFlow_QA_Status_Report_Sprint7_Darrius_Jones.docx)
+Professional QA status report for the PayFlow payment application sprint 7.
+- Overall status, test execution summary, defect summary
+- Quality metrics including DRE (89.7%) and defect leakage (10.2%)
+- Risk assessment with 4 identified risks
+- Release recommendation with criteria and estimated ready date
+
 ---
 
 ## Automation Portfolio
@@ -220,5 +227,6 @@ E2E + API + performance assertions across 2 parallel CI jobs (26 tests)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - Open to full-time and contract QA Analyst, QA Engineer, and QA Automation Engineer roles — remote preferred
+
 
 
