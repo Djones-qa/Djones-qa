@@ -2,7 +2,7 @@
 
 I build production-grade test automation frameworks and deliver professional manual testing services for real-world applications. My portfolio spans 15+ automation projects covering E2E testing, API validation, mobile automation, performance testing, accessibility audits, BDD, SQL database testing, Docker, AWS, and more — all with CI/CD pipelines and professional reporting.
 
-I also work as a professional QA tester with hands-on experience testing casino, fintech, AI wearables, streaming, and healthcare applications using Jira, Xray, TestRail, NATS, and Confluence in Agile environments.
+I also work as a professional QA tester with 5+ years of hands-on experience testing applications across casino, fintech, AI wearables, streaming, and healthcare industries using Jira, Xray, TestRail, NATS, and Confluence in Agile environments.
 
 **Currently open to full-time and contract remote QA Analyst, QA Engineer, and QA Automation Engineer roles.**
 
@@ -51,17 +51,18 @@ I also work as a professional QA tester with hands-on experience testing casino,
 
 ## Professional Testing Experience
 
-### Freelance QA Tester — Contract Remote (3+ Years)
+### Freelance QA Tester — Contract Remote (5+ Years)
 Professional QA tester on real production applications for global companies across diverse industries:
-- **Hard Rock Digital** — Casino platform testing using Jira, Xray, and Confluence
-- **Fanatics Sportsbook** — Sports betting platform across staging and dev environments
-- **Meta AI Ray-Ban** — AI-powered smart glasses including live AI features
-- **Trustly** — Fintech payment platform audits
-- **Roku** — TV app upload, installation, and functional testing
-- **Pluto TV** — Streaming TV app testing across multiple devices
-- **Spring Health** — Healthcare web and mobile platform testing
-- **WiserCare** — Patient decision module testing across multiple browsers
+- Casino platform functional and regression testing
+- Sports betting platform testing across staging and dev environments
+- AI-powered smart glasses testing including live AI features
+- Fintech payment platform audits
+- TV app upload, installation, and functional testing
+- Streaming TV app testing across multiple devices
+- Healthcare web and mobile platform testing
+- Patient decision module testing across multiple browsers
 - Tools: Jira, Xray, TestRail, NATS, Confluence, video and screenshot bug evidence
+- Platforms: Chrome, Firefox, Edge, Safari, Windows, Android, iOS, TV
 
 ---
 
