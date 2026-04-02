@@ -88,7 +88,7 @@ Full-stack QA framework — E2E + API + Allure + POM + data-driven tests (24 tes
 ---
 
 ### [selenium-java-automation](https://github.com/Djones-qa/selenium-java-automation)
-![CI](https://github.com/Djones-qa/selenium-java-automation/actions/workflows/selenium-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/selenium-java-automation/actions/workflows/test.yml/badge.svg)
 Enterprise UI automation with ExtentReports, Log4j, ConfigReader, screenshot on failure, parallel execution (9 tests)
 **Stack:** Selenium, Java 17, TestNG, Maven, ExtentReports, GitHub Actions
 
@@ -220,3 +220,4 @@ E2E + API + performance assertions across 2 parallel CI jobs (26 tests)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - Open to full-time and contract QA Analyst, QA Engineer, and QA Automation Engineer roles — remote preferred
+
