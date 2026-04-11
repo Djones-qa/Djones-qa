@@ -83,7 +83,7 @@ Professional QA status report for the PayFlow payment application sprint 7.
 ## Automation Portfolio
 
 ### [qa-master-suite](https://github.com/Djones-qa/qa-master-suite)
-![CI](https://github.com/Djones-qa/qa-master-suite/actions/workflows/test.yml/badge.svg)
+![CI](https://github.com/Djones-qa/qa-master-suite/actions/workflows/playwright.yml/badge.svg)
 Full-stack QA framework — E2E + API + Allure + POM + data-driven tests (24 tests) **Stack:** Playwright, TypeScript, GitHub Actions
 
 ### [selenium-java-automation](https://github.com/Djones-qa/selenium-java-automation)
@@ -99,7 +99,7 @@ Enterprise API testing with POJO classes, Log4j, ConfigReader, parallel executio
 API mocking and service virtualization — stubs, error simulation, delays, request verification (13 tests) **Stack:** WireMock 3.x, Java 17, RestAssured, TestNG, GitHub Actions
 
 ### [bdd-cucumber-playwright](https://github.com/Djones-qa/bdd-cucumber-playwright)
-![CI](https://github.com/Djones-qa/bdd-cucumber-playwright/actions/workflows/cucumber-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/bdd-cucumber-playwright/actions/workflows/bdd-tests.yml/badge.svg)
 BDD framework with Gherkin scenarios readable by non-technical stakeholders (10 scenarios / 42 steps) **Stack:** Cucumber.js, Playwright, TypeScript, GitHub Actions
 
 ### [python-pytest-automation](https://github.com/Djones-qa/python-pytest-automation)
@@ -127,11 +127,11 @@ GraphQL API testing against SpaceX public API (12 tests) **Stack:** Playwright, 
 Consumer contract testing for User and Order microservices **Stack:** Pact JS, TypeScript, Jest, GitHub Actions
 
 ### [sql-database-testing](https://github.com/Djones-qa/sql-database-testing)
-![CI](https://github.com/Djones-qa/sql-database-testing/actions/workflows/db-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/sql-database-testing/actions/workflows/sql-tests.yml/badge.svg)
 MySQL data integrity suite with GitHub Actions MySQL service container (38 tests) **Stack:** MySQL, JDBC, Java, TestNG, GitHub Actions
 
 ### [mobile-automation-appium-webdriverio](https://github.com/Djones-qa/mobile-automation-appium-webdriverio)
-![CI](https://github.com/Djones-qa/mobile-automation-appium-webdriverio/actions/workflows/appium-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/mobile-automation-appium-webdriverio/actions/workflows/mobile-tests.yml/badge.svg)
 Mobile automation testing Wikipedia Android app on emulator **Stack:** Appium v3, WebdriverIO v9, TypeScript, GitHub Actions
 
 ### [k6-load-testing](https://github.com/Djones-qa/k6-load-testing)
@@ -139,7 +139,7 @@ Mobile automation testing Wikipedia Android app on emulator **Stack:** Appium v3
 Performance testing — smoke, load, stress, spike, and soak scenarios (500 VUs) **Stack:** Grafana K6, GitHub Actions
 
 ### [playwright-accessibility-automation](https://github.com/Djones-qa/playwright-accessibility-automation)
-![CI](https://github.com/Djones-qa/playwright-accessibility-automation/actions/workflows/accessibility-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/playwright-accessibility-automation/actions/workflows/playwright.yml/badge.svg)
 Accessibility testing scanning for WCAG 2.1 AA violations across real websites **Stack:** Playwright, TypeScript, axe-core, GitHub Actions
 
 ### [accessibility-testing-java](https://github.com/Djones-qa/accessibility-testing-java)
@@ -159,7 +159,7 @@ Containerized Playwright tests running inside Docker **Stack:** Docker, Playwrig
 Playwright tests with automatic S3 report upload via GitHub Actions **Stack:** Playwright, AWS S3, GitHub Actions
 
 ### [playwright-visual-regression](https://github.com/Djones-qa/playwright-visual-regression)
-![CI](https://github.com/Djones-qa/playwright-visual-regression/actions/workflows/visual-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/playwright-visual-regression/actions/workflows/playwright.yml/badge.svg)
 Visual regression testing with screenshot comparison **Stack:** Playwright, TypeScript, GitHub Actions
 
 ---
