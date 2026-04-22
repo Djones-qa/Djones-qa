@@ -192,9 +192,12 @@ Financial fraud detection — velocity abuse, geographic anomalies, structuring 
 Healthcare analytics — HIPAA compliance, readmission risk, medication errors, patient outcomes, department performance (43 tests) **Stack:** Python, Pandas, Matplotlib, SQLite, GitHub Actions
 
 ### [jmeter-performance-testing](https://github.com/Djones-qa/jmeter-performance-testing)
+![Status](https://img.shields.io/badge/status-in--progress-orange)
+![Status](https://img.shields.io/badge/status-in--progress-orange)
 Enterprise performance testing with Apache JMeter — smoke, load, stress, spike, and endurance test plans **Stack:** Apache JMeter, Java 17, GitHub Actions
 
 ### [data-analytics-project](https://github.com/Djones-qa/data-analytics)
+![CI](https://github.com/Djones-qa/data-analytics/actions/workflows/eda-test.yml/badge.svg)
 Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power BI dashboard, business insights **Stack:** Python, Pandas, SQL, Matplotlib, Power BI
 
 
@@ -242,6 +245,8 @@ Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - Open to QA Analyst, Manual QA Tester, and QA Automation Engineer roles — remote preferred
+
+
 
 
 
