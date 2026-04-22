@@ -174,7 +174,7 @@ MongoDB NoSQL database testing — CRUD, schema validation, referential integrit
 QA analytics dashboard — DRE, defect leakage, flaky test detection, pass rate trends, 7 automated charts (45 tests) **Stack:** Python, Pandas, Matplotlib, Seaborn, NumPy, GitHub Actions
 
 ### [playwright-cross-browser-testing](https://github.com/Djones-qa/-playwright-cross-browser-testing)
-![CI](https://github.com/Djones-qa/-playwright-cross-browser-testing/actions/workflows/cross-browser-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/-playwright-cross-browser-testing/actions/workflows/playwright.yml/badge.svg)
 Cross browser testing across Chrome, Firefox, WebKit, and mobile browsers **Stack:** Playwright, TypeScript, GitHub Actions
 
 ### [sports-performance-analytics](https://github.com/Djones-qa/sports-performance-analytics)
@@ -186,6 +186,8 @@ NBA-style sports analytics — player efficiency ratings, salary vs performance,
 Financial fraud detection — velocity abuse, geographic anomalies, structuring detection, composite risk scoring (43 tests) **Stack:** Python, Pandas, Scikit-learn, SQLite, GitHub Actions
 
 ### [healthcare-patient-analytics](https://github.com/Djones-qa/healthcare-patient-analytics)
+![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
 ![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
 Healthcare analytics — HIPAA compliance, readmission risk, medication errors, patient outcomes, department performance (43 tests) **Stack:** Python, Pandas, Matplotlib, SQLite, GitHub Actions
 
@@ -240,4 +242,6 @@ Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - Open to QA Analyst, Manual QA Tester, and QA Automation Engineer roles — remote preferred
+
+
 
