@@ -187,12 +187,9 @@ Financial fraud detection — velocity abuse, geographic anomalies, structuring 
 
 ### [healthcare-patient-analytics](https://github.com/Djones-qa/healthcare-patient-analytics)
 ![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
-![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
-![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
 Healthcare analytics — HIPAA compliance, readmission risk, medication errors, patient outcomes, department performance (43 tests) **Stack:** Python, Pandas, Matplotlib, SQLite, GitHub Actions
 
 ### [jmeter-performance-testing](https://github.com/Djones-qa/jmeter-performance-testing)
-![Status](https://img.shields.io/badge/status-in--progress-orange)
 ![Status](https://img.shields.io/badge/status-in--progress-orange)
 Enterprise performance testing with Apache JMeter — smoke, load, stress, spike, and endurance test plans **Stack:** Apache JMeter, Java 17, GitHub Actions
 
