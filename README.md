@@ -164,6 +164,38 @@ Visual regression testing with screenshot comparison **Stack:** Playwright, Type
 
 ---
 
+
+### [mongodb-database-testing](https://github.com/Djones-qa/mongodb-database-testing)
+![CI](https://github.com/Djones-qa/mongodb-database-testing/actions/workflows/mongodb-tests.yml/badge.svg)
+MongoDB NoSQL database testing — CRUD, schema validation, referential integrity, aggregation pipelines, bulk operations against Atlas (43 tests) **Stack:** Python, PyMongo, Pytest, MongoDB Atlas, GitHub Actions
+
+### [test-automation-reporting-analytics](https://github.com/Djones-qa/test-automation-reporting-analytics)
+![CI](https://github.com/Djones-qa/test-automation-reporting-analytics/actions/workflows/analytics-tests.yml/badge.svg)
+QA analytics dashboard — DRE, defect leakage, flaky test detection, pass rate trends, 7 automated charts (45 tests) **Stack:** Python, Pandas, Matplotlib, Seaborn, NumPy, GitHub Actions
+
+### [playwright-cross-browser-testing](https://github.com/Djones-qa/-playwright-cross-browser-testing)
+![CI](https://github.com/Djones-qa/-playwright-cross-browser-testing/actions/workflows/cross-browser-tests.yml/badge.svg)
+Cross browser testing across Chrome, Firefox, WebKit, and mobile browsers **Stack:** Playwright, TypeScript, GitHub Actions
+
+### [sports-performance-analytics](https://github.com/Djones-qa/sports-performance-analytics)
+![CI](https://github.com/Djones-qa/sports-performance-analytics/actions/workflows/analytics-tests.yml/badge.svg)
+NBA-style sports analytics — player efficiency ratings, salary vs performance, team wins, SQL queries, 7 charts (43 tests) **Stack:** Python, Pandas, Matplotlib, Seaborn, SQLite, GitHub Actions
+
+### [financial-crime-detection](https://github.com/Djones-qa/-financial-crime-detection)
+![CI](https://github.com/Djones-qa/-financial-crime-detection/actions/workflows/crime-detection-tests.yml/badge.svg)
+Financial fraud detection — velocity abuse, geographic anomalies, structuring detection, composite risk scoring (43 tests) **Stack:** Python, Pandas, Scikit-learn, SQLite, GitHub Actions
+
+### [healthcare-patient-analytics](https://github.com/Djones-qa/healthcare-patient-analytics)
+![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
+Healthcare analytics — HIPAA compliance, readmission risk, medication errors, patient outcomes, department performance (43 tests) **Stack:** Python, Pandas, Matplotlib, SQLite, GitHub Actions
+
+### [jmeter-performance-testing](https://github.com/Djones-qa/jmeter-performance-testing)
+Enterprise performance testing with Apache JMeter — smoke, load, stress, spike, and endurance test plans **Stack:** Apache JMeter, Java 17, GitHub Actions
+
+### [data-analytics-project](https://github.com/Djones-qa/data-analytics)
+Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power BI dashboard, business insights **Stack:** Python, Pandas, SQL, Matplotlib, Power BI
+
+
 ## Tech Stack Table
 
 | Category | Tools |
@@ -208,3 +240,4 @@ Visual regression testing with screenshot comparison **Stack:** Playwright, Type
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - Open to QA Analyst, Manual QA Tester, and QA Automation Engineer roles — remote preferred
+
