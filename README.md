@@ -43,7 +43,7 @@ Currently open to full-time and contract remote roles as a **QA Tester**, **QA A
 
 ## Professional Testing Experience
 
-**Contract QA Tester — Remote | March 2020 – Present**
+**Freelance QA Tester — Remote | March 2020 – Present**
 
 Paid QA tester delivering testing cycles for global enterprise clients across diverse industries:
 
