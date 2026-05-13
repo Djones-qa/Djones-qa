@@ -1,8 +1,8 @@
-﻿# Hi, I'm Darrius Jones — Portfolio-driven QA Engineer
+﻿# Hi, I'm Darrius Jones — QA Tester & Automation Engineer
 
 Detail-oriented QA professional with 5+ years of paid professional testing experience delivering functional, regression, and exploratory testing for global enterprise clients across fintech, casino, healthcare, AI wearables, streaming, and sports betting industries.
 
-Currently open to full-time and contract remote roles as a **QA Analyst**, **Manual QA Tester**, or **Junior QA Automation Engineer**.
+Currently open to full-time and contract remote roles as a **QA Tester**, **QA Analyst**, or **Junior QA Automation Engineer**.
 
 ---
 
@@ -43,9 +43,9 @@ Currently open to full-time and contract remote roles as a **QA Analyst**, **Man
 
 ## Professional Testing Experience
 
-**Contract QA Analyst — Remote | March 2020 – Present**
+**Contract QA Tester — Remote | March 2020 – Present**
 
-Professional QA tester delivering paid testing cycles for global enterprise clients across diverse industries:
+Paid QA tester delivering testing cycles for global enterprise clients across diverse industries:
 
 - Casino platform functional and regression testing
 - Sports betting platform testing across staging and dev environments
@@ -241,7 +241,7 @@ Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power
 
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
-- Open to QA Analyst, Manual QA Tester, QA Automation Engineer, and Data Analyst roles — remote preferred
+- Open to QA Tester, QA Analyst, QA Automation Engineer, and Data Analyst roles — remote preferred
 
 
 
