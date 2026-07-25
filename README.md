@@ -4,7 +4,7 @@ Detail-oriented QA professional with 5+ years of paid professional testing exper
 
 **100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
 
-ðŸ”— **[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** â€” Interactive view of all 100 repos categorized by discipline
+**[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** â€” Interactive view of all 100 repos categorized by discipline
 
 Currently open to full-time and contract remote roles as a **QA Engineer**, **SDET**, **QA Automation Engineer**, or **QA Architect**.
 
@@ -132,7 +132,7 @@ Paid QA tester delivering testing cycles for global enterprise clients across di
 
 ## Let's Connect
 
-- ðŸ”— Portfolio: [djones-qa.github.io/qa-portfolio-dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)
-- ðŸ’¼ LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
-- ðŸ™ GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
+- Portfolio: [djones-qa.github.io/qa-portfolio-dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)
+- LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
+- GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
 - Open to **QA Engineer**, **SDET**, **QA Automation Engineer**, **QA Architect** roles â€” remote preferred
