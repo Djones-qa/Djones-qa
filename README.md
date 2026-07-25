@@ -1,10 +1,10 @@
-﻿# Hi, I'm Darrius Jones â€” QA Engineer & Automation Architect
+# Hi, I'm Darrius Jones - QA Engineer & Automation Architect
 
 Detail-oriented QA professional with 5+ years of paid professional testing experience delivering functional, regression, exploratory, and automated testing for global enterprise clients across fintech, casino, healthcare, AI wearables, streaming, and sports betting industries.
 
 **100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
 
-**[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** â€” Interactive view of all 100 repos categorized by discipline
+**[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** - Interactive view of all 100 repos categorized by discipline
 
 Currently open to full-time and contract remote roles as a **QA Engineer**, **SDET**, **QA Automation Engineer**, or **QA Architect**.
 
@@ -41,11 +41,11 @@ Production-grade systems that tie the entire testing lifecycle together:
 
 | Repository | What It Does |
 |------------|-------------|
-| [ci-quality-gate-engine](https://github.com/Djones-qa/ci-quality-gate-engine) | Multi-signal CI/CD quality gate â€” aggregates test results to produce ship/no-ship verdicts |
+| [ci-quality-gate-engine](https://github.com/Djones-qa/ci-quality-gate-engine) | Multi-signal CI/CD quality gate - aggregates test results to produce ship/no-ship verdicts |
 | [test-data-factory](https://github.com/Djones-qa/test-data-factory) | Schema-driven test data generation with relationship integrity and compliance masking |
 | [flaky-test-detective](https://github.com/Djones-qa/flaky-test-detective) | Statistical flaky test detection, root cause classification, quarantine management |
 | [ephemeral-env-controller](https://github.com/Djones-qa/ephemeral-env-controller) | On-demand PR-based test environment provisioning with TTL and resource tracking |
-| [api-chaos-testing-engine](https://github.com/Djones-qa/api-chaos-testing-engine) | Chaos engineering for APIs â€” fault injection, resilience scoring, circuit breaker validation |
+| [api-chaos-testing-engine](https://github.com/Djones-qa/api-chaos-testing-engine) | Chaos engineering for APIs - fault injection, resilience scoring, circuit breaker validation |
 | [api-mock-gateway](https://github.com/Djones-qa/api-mock-gateway) | Configurable API mock gateway with latency simulation and contract validation |
 | [qa-test-orchestrator](https://github.com/Djones-qa/qa-test-orchestrator) | Test suite scheduling, execution orchestration, and multi-environment reporting |
 | [feature-flag-engine](https://github.com/Djones-qa/feature-flag-engine) | Feature flag evaluation engine with gradual rollouts and A/B testing |
@@ -55,33 +55,33 @@ Production-grade systems that tie the entire testing lifecycle together:
 ## What I Build
 
 ### Test Automation
-- **E2E automation** â€” Playwright, Cypress, Selenium with POM, cross-browser, visual regression
-- **API testing** â€” RestAssured, Postman, GraphQL, WireMock service virtualization
-- **Mobile automation** â€” Appium, WebdriverIO on Android/iOS
-- **Performance testing** â€” K6, JMeter (smoke, load, stress, spike, soak, endurance)
-- **Security testing** â€” OWASP ZAP, DAST, SQL injection, XSS, auth testing
-- **Accessibility testing** â€” axe-core, WCAG 2.1 AA, Pa11y, Lighthouse
-- **Contract testing** â€” Pact consumer-driven contracts, schema validation
-- **BDD frameworks** â€” Cucumber, Gherkin, human-readable specifications
+- **E2E automation** - Playwright, Cypress, Selenium with POM, cross-browser, visual regression
+- **API testing** - RestAssured, Postman, GraphQL, WireMock service virtualization
+- **Mobile automation** - Appium, WebdriverIO on Android/iOS
+- **Performance testing** - K6, JMeter (smoke, load, stress, spike, soak, endurance)
+- **Security testing** - OWASP ZAP, DAST, SQL injection, XSS, auth testing
+- **Accessibility testing** - axe-core, WCAG 2.1 AA, Pa11y, Lighthouse
+- **Contract testing** - Pact consumer-driven contracts, schema validation
+- **BDD frameworks** - Cucumber, Gherkin, human-readable specifications
 
 ### QA Infrastructure & DevOps
-- **CI/CD pipelines** â€” Quality gates, progressive delivery, deployment safety
-- **Chaos engineering** â€” Fault injection, resilience validation, circuit breaker testing
-- **Test environments** â€” Ephemeral provisioning, lifecycle management, cleanup policies
-- **Test data** â€” Schema-driven generation, compliance masking (HIPAA/GDPR), bulk streaming
-- **Flaky test management** â€” Detection, classification, quarantine, SLA tracking
-- **Observability** â€” SRE stack, SLO tracking, distributed tracing, alerting
+- **CI/CD pipelines** - Quality gates, progressive delivery, deployment safety
+- **Chaos engineering** - Fault injection, resilience validation, circuit breaker testing
+- **Test environments** - Ephemeral provisioning, lifecycle management, cleanup policies
+- **Test data** - Schema-driven generation, compliance masking (HIPAA/GDPR), bulk streaming
+- **Flaky test management** - Detection, classification, quarantine, SLA tracking
+- **Observability** - SRE stack, SLO tracking, distributed tracing, alerting
 
 ### Data & Analytics
-- **Data pipeline testing** â€” Schema validation, quality checks, transformation testing
-- **AI/ML testing** â€” Model accuracy, bias detection, fairness, prompt regression
-- **Analytics dashboards** â€” Retail, healthcare, fintech, sports, cybersecurity
+- **Data pipeline testing** - Schema validation, quality checks, transformation testing
+- **AI/ML testing** - Model accuracy, bias detection, fairness, prompt regression
+- **Analytics dashboards** - Retail, healthcare, fintech, sports, cybersecurity
 
 ---
 
 ## Professional Testing Experience
 
-**Freelance QA Tester â€” Remote | March 2020 â€“ Present**
+**Freelance QA Tester - Remote | March 2020 - Present**
 
 Paid QA tester delivering testing cycles for global enterprise clients across diverse industries:
 
@@ -120,13 +120,13 @@ Paid QA tester delivering testing cycles for global enterprise clients across di
 ## Certifications
 
 - Postman API Fundamentals Student Expert
-- Introduction to Prompt Engineering â€” Simplilearn (March 2026)
-- Introduction to Software Testing â€” Simplilearn (March 2026)
-- Best Practices for Cross-Functional Communication â€” CodeSignal (March 2026)
-- Software Testing Foundations: Test Techniques & Strategy â€” LinkedIn Learning
-- Foundations of Software Testing and Automation â€” LinkedIn Learning
-- Succeeding in Software Testing â€” LinkedIn Learning
-- Web Development Fundamentals â€” IBM
+- Introduction to Prompt Engineering - Simplilearn (March 2026)
+- Introduction to Software Testing - Simplilearn (March 2026)
+- Best Practices for Cross-Functional Communication - CodeSignal (March 2026)
+- Software Testing Foundations: Test Techniques & Strategy - LinkedIn Learning
+- Foundations of Software Testing and Automation - LinkedIn Learning
+- Succeeding in Software Testing - LinkedIn Learning
+- Web Development Fundamentals - IBM
 
 ---
 
@@ -135,4 +135,4 @@ Paid QA tester delivering testing cycles for global enterprise clients across di
 - Portfolio: [djones-qa.github.io/qa-portfolio-dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)
 - LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
 - GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
-- Open to **QA Engineer**, **SDET**, **QA Automation Engineer**, **QA Architect** roles â€” remote preferred
+- Open to **QA Engineer**, **SDET**, **QA Automation Engineer**, **QA Architect** roles - remote preferred
