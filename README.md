@@ -1,8 +1,12 @@
-﻿# Hi, I'm Darrius Jones — QA Tester & Automation Engineer
+# Hi, I'm Darrius Jones â€” QA Engineer & Automation Architect
 
-Detail-oriented QA professional with 5+ years of paid professional testing experience delivering functional, regression, and exploratory testing for global enterprise clients across fintech, casino, healthcare, AI wearables, streaming, and sports betting industries.
+Detail-oriented QA professional with 5+ years of paid professional testing experience delivering functional, regression, exploratory, and automated testing for global enterprise clients across fintech, casino, healthcare, AI wearables, streaming, and sports betting industries.
 
-Currently open to full-time and contract remote roles as a **QA Tester**, **QA Analyst**, or **Junior QA Automation Engineer**.
+**100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
+
+ðŸ”— **[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** â€” Interactive view of all 100 repos categorized by discipline
+
+Currently open to full-time and contract remote roles as a **QA Engineer**, **SDET**, **QA Automation Engineer**, or **QA Architect**.
 
 ---
 
@@ -10,40 +14,74 @@ Currently open to full-time and contract remote roles as a **QA Tester**, **QA A
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Pact](https://img.shields.io/badge/Pact-2F3134?style=flat&logo=pact&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## QA Infrastructure Platform (Built from Scratch)
+
+Production-grade systems that tie the entire testing lifecycle together:
+
+| Repository | What It Does |
+|------------|-------------|
+| [ci-quality-gate-engine](https://github.com/Djones-qa/ci-quality-gate-engine) | Multi-signal CI/CD quality gate â€” aggregates test results to produce ship/no-ship verdicts |
+| [test-data-factory](https://github.com/Djones-qa/test-data-factory) | Schema-driven test data generation with relationship integrity and compliance masking |
+| [flaky-test-detective](https://github.com/Djones-qa/flaky-test-detective) | Statistical flaky test detection, root cause classification, quarantine management |
+| [ephemeral-env-controller](https://github.com/Djones-qa/ephemeral-env-controller) | On-demand PR-based test environment provisioning with TTL and resource tracking |
+| [api-chaos-testing-engine](https://github.com/Djones-qa/api-chaos-testing-engine) | Chaos engineering for APIs â€” fault injection, resilience scoring, circuit breaker validation |
+| [api-mock-gateway](https://github.com/Djones-qa/api-mock-gateway) | Configurable API mock gateway with latency simulation and contract validation |
+| [qa-test-orchestrator](https://github.com/Djones-qa/qa-test-orchestrator) | Test suite scheduling, execution orchestration, and multi-environment reporting |
+| [feature-flag-engine](https://github.com/Djones-qa/feature-flag-engine) | Feature flag evaluation engine with gradual rollouts and A/B testing |
 
 ---
 
 ## What I Build
 
-- **E2E automation** using Playwright, Cypress, and Selenium with Page Object Model
-- **API testing** using RestAssured, Postman, GraphQL, and WireMock service virtualization
-- **Mobile automation** testing Android apps with Appium and WebdriverIO
-- **Performance testing** with Grafana K6 — smoke, load, stress, spike, and soak
-- **Security testing** using OWASP principles — SQL injection, XSS, auth, and data exposure
-- **BDD frameworks** using Cucumber and Gherkin readable by non-technical stakeholders
-- **Accessibility testing** scanning for WCAG 2.1 AA violations with axe-core
-- **Contract testing** with Pact for consumer-driven microservice verification
-- **AI/ML testing** validating model accuracy, bias, fairness, and edge cases
-- **Data pipeline testing** validating schema, quality, transformations, and integrity
-- **Cloud pipelines** uploading reports to AWS S3 via GitHub Actions
+### Test Automation
+- **E2E automation** â€” Playwright, Cypress, Selenium with POM, cross-browser, visual regression
+- **API testing** â€” RestAssured, Postman, GraphQL, WireMock service virtualization
+- **Mobile automation** â€” Appium, WebdriverIO on Android/iOS
+- **Performance testing** â€” K6, JMeter (smoke, load, stress, spike, soak, endurance)
+- **Security testing** â€” OWASP ZAP, DAST, SQL injection, XSS, auth testing
+- **Accessibility testing** â€” axe-core, WCAG 2.1 AA, Pa11y, Lighthouse
+- **Contract testing** â€” Pact consumer-driven contracts, schema validation
+- **BDD frameworks** â€” Cucumber, Gherkin, human-readable specifications
+
+### QA Infrastructure & DevOps
+- **CI/CD pipelines** â€” Quality gates, progressive delivery, deployment safety
+- **Chaos engineering** â€” Fault injection, resilience validation, circuit breaker testing
+- **Test environments** â€” Ephemeral provisioning, lifecycle management, cleanup policies
+- **Test data** â€” Schema-driven generation, compliance masking (HIPAA/GDPR), bulk streaming
+- **Flaky test management** â€” Detection, classification, quarantine, SLA tracking
+- **Observability** â€” SRE stack, SLO tracking, distributed tracing, alerting
+
+### Data & Analytics
+- **Data pipeline testing** â€” Schema validation, quality checks, transformation testing
+- **AI/ML testing** â€” Model accuracy, bias detection, fairness, prompt regression
+- **Analytics dashboards** â€” Retail, healthcare, fintech, sports, cybersecurity
 
 ---
 
 ## Professional Testing Experience
 
-**Freelance QA Tester — Remote | March 2020 – Present**
+**Freelance QA Tester â€” Remote | March 2020 â€“ Present**
 
 Paid QA tester delivering testing cycles for global enterprise clients across diverse industries:
 
@@ -61,192 +99,40 @@ Paid QA tester delivering testing cycles for global enterprise clients across di
 
 ---
 
-## Test Case Documentation
+## Portfolio by Discipline
 
-### [SecureBank Login Module — Test Case Document](docs/SecureBank_Test_Cases_Darrius_Jones.docx)
-Formal test case document covering the SecureBank banking application login module.
-- TC_001 — Happy Path: Valid login redirects to dashboard
-- TC_002 — Invalid email format blocked with inline validation
-- TC_003 — Account lockout after 3 consecutive failed attempts
-- TC_004 — Remember Me session persistence across browser restarts
-- Includes preconditions, test data, steps, expected results, postconditions, and sign-off section
-
-### [PayFlow QA Status Report — Sprint 7](docs/PayFlow_QA_Status_Report_Sprint7_Darrius_Jones.docx)
-Professional QA status report for the PayFlow payment application sprint 7.
-- Overall status, test execution summary, defect summary
-- Quality metrics including DRE (89.7%) and defect leakage (10.2%)
-- Risk assessment with 4 identified risks
-- Release recommendation with criteria and estimated ready date
-
----
-
-## Automation Portfolio
-
-### [qa-master-suite](https://github.com/Djones-qa/qa-master-suite)
-![CI](https://github.com/Djones-qa/qa-master-suite/actions/workflows/playwright.yml/badge.svg)
-Full-stack QA framework — E2E + API + Allure + POM + data-driven tests (24 tests) **Stack:** Playwright, TypeScript, GitHub Actions
-
-### [selenium-java-automation](https://github.com/Djones-qa/selenium-java-automation)
-![CI](https://github.com/Djones-qa/selenium-java-automation/actions/workflows/selenium-tests.yml/badge.svg)
-Enterprise UI automation with ExtentReports, Log4j, ConfigReader, screenshot on failure, parallel execution (9 tests) **Stack:** Selenium, Java 17, TestNG, Maven, GitHub Actions
-
-### [restassured-java-api-testing](https://github.com/Djones-qa/restassured-java-api-testing)
-![CI](https://github.com/Djones-qa/restassured-java-api-testing/actions/workflows/api-tests.yml/badge.svg)
-Enterprise API testing with POJO classes, Log4j, ConfigReader, parallel execution (19 tests) **Stack:** RestAssured, Java 17, TestNG, GitHub Actions
-
-### [wiremock-api-mocking](https://github.com/Djones-qa/wiremock-api-mocking)
-![CI](https://github.com/Djones-qa/wiremock-api-mocking/actions/workflows/wiremock-tests.yml/badge.svg)
-API mocking and service virtualization — stubs, error simulation, delays, request verification (13 tests) **Stack:** WireMock 3.x, Java 17, RestAssured, TestNG, GitHub Actions
-
-### [bdd-cucumber-playwright](https://github.com/Djones-qa/bdd-cucumber-playwright)
-![CI](https://github.com/Djones-qa/bdd-cucumber-playwright/actions/workflows/bdd-tests.yml/badge.svg)
-BDD framework with Gherkin scenarios readable by non-technical stakeholders (10 scenarios / 42 steps) **Stack:** Cucumber.js, Playwright, TypeScript, GitHub Actions
-
-### [python-pytest-automation](https://github.com/Djones-qa/python-pytest-automation)
-![CI](https://github.com/Djones-qa/python-pytest-automation/actions/workflows/pytest-tests.yml/badge.svg)
-Python test framework covering UI and API testing with parametrize and fixtures (22 tests) **Stack:** Python, Pytest, Playwright, Requests, GitHub Actions
-
-### [security-testing-owasp-zap](https://github.com/Djones-qa/security-testing-owasp-zap)
-![CI](https://github.com/Djones-qa/security-testing-owasp-zap/actions/workflows/security-tests.yml/badge.svg)
-Security testing using OWASP principles — SQL injection, XSS, authentication, CORS, data exposure (46 tests) **Stack:** Python, Pytest, Requests, GitHub Actions
-
-### [ai-ml-model-testing](https://github.com/Djones-qa/ai-ml-model-testing)
-![CI](https://github.com/Djones-qa/ai-ml-model-testing/actions/workflows/ai-ml-tests.yml/badge.svg)
-AI/ML model testing — accuracy thresholds, bias detection, edge cases, fairness (32 tests) **Stack:** Python, Pytest, Scikit-learn, Pandas, GitHub Actions
-
-### [data-pipeline-testing](https://github.com/Djones-qa/data-pipeline-testing)
-![CI](https://github.com/Djones-qa/data-pipeline-testing/actions/workflows/pipeline-tests.yml/badge.svg)
-Data pipeline testing — schema validation, quality checks, transformations, integrity (59 tests) **Stack:** Python, Pytest, Pandas, NumPy, GitHub Actions
-
-### [graphql-api-testing](https://github.com/Djones-qa/graphql-api-testing)
-![CI](https://github.com/Djones-qa/graphql-api-testing/actions/workflows/graphql-tests.yml/badge.svg)
-GraphQL API testing against SpaceX public API (12 tests) **Stack:** Playwright, TypeScript, GitHub Actions
-
-### [pact-contract-testing](https://github.com/Djones-qa/pact-contract-testing)
-![CI](https://github.com/Djones-qa/pact-contract-testing/actions/workflows/pact-tests.yml/badge.svg)
-Consumer contract testing for User and Order microservices **Stack:** Pact JS, TypeScript, Jest, GitHub Actions
-
-### [sql-database-testing](https://github.com/Djones-qa/sql-database-testing)
-![CI](https://github.com/Djones-qa/sql-database-testing/actions/workflows/sql-tests.yml/badge.svg)
-MySQL data integrity suite with GitHub Actions MySQL service container (38 tests) **Stack:** MySQL, JDBC, Java, TestNG, GitHub Actions
-
-### [mobile-automation-appium-webdriverio](https://github.com/Djones-qa/mobile-automation-appium-webdriverio)
-![CI](https://github.com/Djones-qa/mobile-automation-appium-webdriverio/actions/workflows/mobile-tests.yml/badge.svg)
-Mobile automation testing Wikipedia Android app on emulator **Stack:** Appium v3, WebdriverIO v9, TypeScript, GitHub Actions
-
-### [k6-load-testing](https://github.com/Djones-qa/k6-load-testing)
-![CI](https://github.com/Djones-qa/k6-load-testing/actions/workflows/k6-tests.yml/badge.svg)
-Performance testing — smoke, load, stress, spike, and soak scenarios (500 VUs) **Stack:** Grafana K6, GitHub Actions
-
-### [playwright-accessibility-automation](https://github.com/Djones-qa/playwright-accessibility-automation)
-![CI](https://github.com/Djones-qa/playwright-accessibility-automation/actions/workflows/playwright.yml/badge.svg)
-Accessibility testing scanning for WCAG 2.1 AA violations across real websites **Stack:** Playwright, TypeScript, axe-core, GitHub Actions
-
-### [accessibility-testing-java](https://github.com/Djones-qa/accessibility-testing-java)
-![CI](https://github.com/Djones-qa/accessibility-testing-java/actions/workflows/accessibility-tests.yml/badge.svg)
-WCAG 2.1 AA accessibility scanning with axe-core across multiple real websites **Stack:** axe-core, Selenium, Java 17, TestNG, GitHub Actions
-
-### [cypress-e2e-automation](https://github.com/Djones-qa/cypress-e2e-automation)
-![CI](https://github.com/Djones-qa/cypress-e2e-automation/actions/workflows/cypress-tests.yml/badge.svg)
-Cypress E2E automation with time travel debugging **Stack:** Cypress, TypeScript, GitHub Actions
-
-### [docker-playwright-testing](https://github.com/Djones-qa/docker-playwright-testing)
-![CI](https://github.com/Djones-qa/docker-playwright-testing/actions/workflows/docker-tests.yml/badge.svg)
-Containerized Playwright tests running inside Docker **Stack:** Docker, Playwright, TypeScript, GitHub Actions
-
-### [aws-playwright-pipeline](https://github.com/Djones-qa/aws-playwright-pipeline)
-![CI](https://github.com/Djones-qa/aws-playwright-pipeline/actions/workflows/aws-pipeline.yml/badge.svg)
-Playwright tests with automatic S3 report upload via GitHub Actions **Stack:** Playwright, AWS S3, GitHub Actions
-
-### [playwright-visual-regression](https://github.com/Djones-qa/playwright-visual-regression)
-![CI](https://github.com/Djones-qa/playwright-visual-regression/actions/workflows/playwright.yml/badge.svg)
-Visual regression testing with screenshot comparison **Stack:** Playwright, TypeScript, GitHub Actions
-
----
-
-
-### [mongodb-database-testing](https://github.com/Djones-qa/mongodb-database-testing)
-![CI](https://github.com/Djones-qa/mongodb-database-testing/actions/workflows/mongodb-tests.yml/badge.svg)
-MongoDB NoSQL database testing — CRUD, schema validation, referential integrity, aggregation pipelines, bulk operations against Atlas (43 tests) **Stack:** Python, PyMongo, Pytest, MongoDB Atlas, GitHub Actions
-
-### [test-automation-reporting-analytics](https://github.com/Djones-qa/test-automation-reporting-analytics)
-![CI](https://github.com/Djones-qa/test-automation-reporting-analytics/actions/workflows/analytics-tests.yml/badge.svg)
-QA analytics dashboard — DRE, defect leakage, flaky test detection, pass rate trends, 7 automated charts (45 tests) **Stack:** Python, Pandas, Matplotlib, Seaborn, NumPy, GitHub Actions
-
-### [playwright-cross-browser-testing](https://github.com/Djones-qa/-playwright-cross-browser-testing)
-![CI](https://github.com/Djones-qa/-playwright-cross-browser-testing/actions/workflows/playwright.yml/badge.svg)
-Cross browser testing across Chrome, Firefox, WebKit, and mobile browsers **Stack:** Playwright, TypeScript, GitHub Actions
-
-### [sports-performance-analytics](https://github.com/Djones-qa/sports-performance-analytics)
-![CI](https://github.com/Djones-qa/sports-performance-analytics/actions/workflows/analytics-tests.yml/badge.svg)
-NBA-style sports analytics — player efficiency ratings, salary vs performance, team wins, SQL queries, 7 charts (43 tests) **Stack:** Python, Pandas, Matplotlib, Seaborn, SQLite, GitHub Actions
-
-### [financial-crime-detection](https://github.com/Djones-qa/-financial-crime-detection)
-![CI](https://github.com/Djones-qa/-financial-crime-detection/actions/workflows/crime-detection-tests.yml/badge.svg)
-Financial fraud detection — velocity abuse, geographic anomalies, structuring detection, composite risk scoring (43 tests) **Stack:** Python, Pandas, Scikit-learn, SQLite, GitHub Actions
-
-### [healthcare-patient-analytics](https://github.com/Djones-qa/healthcare-patient-analytics)
-![CI](https://github.com/Djones-qa/healthcare-patient-analytics/actions/workflows/healthcare-tests.yml/badge.svg)
-Healthcare analytics — HIPAA compliance, readmission risk, medication errors, patient outcomes, department performance (43 tests) **Stack:** Python, Pandas, Matplotlib, SQLite, GitHub Actions
-
-### [jmeter-performance-testing](https://github.com/Djones-qa/jmeter-performance-testing)
-![CI](https://github.com/Djones-qa/jmeter-performance-testing/actions/workflows/jmeter-tests.yml/badge.svg)
-Enterprise performance testing with Apache JMeter — smoke, load, stress, spike, and endurance test plans **Stack:** Apache JMeter, Java 17, GitHub Actions
-
-### [data-analytics-project](https://github.com/Djones-qa/data-analytics)
-![CI](https://github.com/Djones-qa/data-analytics/actions/workflows/eda-test.yml/badge.svg)
-Retail operations and sales analytics — EDA, data cleaning, SQL queries, Power BI dashboard, business insights **Stack:** Python, Pandas, SQL, Matplotlib, Power BI
-
-
-## Tech Stack Table
-
-| Category | Tools |
-|---|---|
-| E2E Automation | Playwright, Cypress, Selenium/Java, TypeScript |
-| Mobile Automation | Appium, WebdriverIO |
-| API Testing | RestAssured, Playwright, Postman, GraphQL |
-| Load Testing | Grafana K6 — Smoke, Load, Stress, Spike, Soak |
-| Security Testing | OWASP, SQL Injection, XSS, Auth, CORS |
-| Database Testing | MySQL, SQL, Data Integrity, JDBC |
-| AI/ML Testing | Scikit-learn, Pandas, NumPy, bias detection |
-| Data Pipeline | Pandas, schema validation, transformation testing |
-| BDD | Cucumber.js, Gherkin, Playwright |
-| Contract Testing | Pact JS, Consumer-Driven Contracts |
-| Accessibility | axe-core, WCAG 2.1 AA, Selenium, Playwright |
-| Reporting | Allure, ExtentReports, Mochawesome |
-| CI/CD | GitHub Actions, Docker, AWS S3 |
-| Java Tools | TestNG, Maven, Log4j, ExtentReports, WireMock |
-| Python Testing | Pytest, Requests, Faker, Scikit-learn |
-| Test Management | Jira, Xray, TestRail, NATS, Confluence |
-| Version Control | Git, GitHub |
-| Browsers | Chrome, Firefox, Edge, Safari |
+| Discipline | Repos | Key Technologies |
+|------------|-------|-----------------|
+| API Testing | 8+ | RestAssured, Pact, Karate, Supertest, GraphQL |
+| E2E & Visual | 6+ | Playwright, Cypress, Selenium, Percy |
+| Performance | 4+ | K6, JMeter, Artillery, Lighthouse |
+| Security | 4+ | OWASP ZAP, DAST, DevSecOps, Trivy |
+| Accessibility | 3+ | axe-core, Pa11y, WCAG 2.1 AA |
+| Mobile | 2+ | Appium, Detox, Maestro |
+| Infrastructure | 6+ | Docker, K8s, Terraform, Ansible, Helm |
+| CI/CD & Quality | 5+ | Quality Gates, Pipelines, Feature Flags |
+| Data & Analytics | 10+ | Pandas, SQL, ETL, Power BI |
+| Chaos & Resilience | 1 | Fault Injection, Circuit Breakers |
+| AI/ML Testing | 2+ | Prompt Regression, Bias Detection |
 
 ---
 
 ## Certifications
 
 - Postman API Fundamentals Student Expert
-- Introduction to Prompt Engineering — Simplilearn (March 2026)
-- Introduction to Software Testing — Simplilearn (March 2026)
-- Best Practices for Cross-Functional Communication — CodeSignal (March 2026)
-- Software Testing Foundations: Test Techniques & Strategy — LinkedIn Learning
-- Foundations of Software Testing and Automation — LinkedIn Learning
-- Succeeding in Software Testing — LinkedIn Learning
-- Web Development Fundamentals — IBM
-- Practice It: Python Data Structures — LinkedIn Learning
+- Introduction to Prompt Engineering â€” Simplilearn (March 2026)
+- Introduction to Software Testing â€” Simplilearn (March 2026)
+- Best Practices for Cross-Functional Communication â€” CodeSignal (March 2026)
+- Software Testing Foundations: Test Techniques & Strategy â€” LinkedIn Learning
+- Foundations of Software Testing and Automation â€” LinkedIn Learning
+- Succeeding in Software Testing â€” LinkedIn Learning
+- Web Development Fundamentals â€” IBM
 
 ---
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
-- GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
-- Open to QA Tester, QA Analyst, QA Automation Engineer, and Data Analyst roles — remote preferred
-
-
-
-
-
-
-
-
+- ðŸ”— Portfolio: [djones-qa.github.io/qa-portfolio-dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)
+- ðŸ’¼ LinkedIn: [linkedin.com/in/darrius-jones-28226b350](https://linkedin.com/in/darrius-jones-28226b350)
+- ðŸ™ GitHub: [github.com/Djones-qa](https://github.com/Djones-qa)
+- Open to **QA Engineer**, **SDET**, **QA Automation Engineer**, **QA Architect** roles â€” remote preferred
