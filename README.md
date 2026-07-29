@@ -4,9 +4,9 @@ Detail-oriented QA professional with 5+ years of paid professional testing exper
 
 Over **100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
 
-**[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** - Interactive view of all 100 repos categorized by discipline
+**[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** - Interactive view of all repos categorized by discipline
 
-Currently open to full-time and contract remote roles as a **QA Engineer**, **SDET**, **QA Automation Engineer**, or **QA Architect**.
+Currently open to full-time and contract remote roles as a **QA Engineer**, **QA Automation Engineer**, or **QA Architect**.
 
 ---
 
