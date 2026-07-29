@@ -2,7 +2,7 @@
 
 Detail-oriented QA professional with 5+ years of paid professional testing experience delivering functional, regression, exploratory, and automated testing for global enterprise clients across fintech, casino, healthcare, AI wearables, streaming, and sports betting industries.
 
-**100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
+Over **100 repositories** spanning test automation, QA infrastructure, chaos engineering, CI/CD tooling, and data analytics.
 
 **[Live Portfolio Dashboard](https://djones-qa.github.io/qa-portfolio-dashboard)** - Interactive view of all 100 repos categorized by discipline
 
